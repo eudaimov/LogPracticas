@@ -8,7 +8,7 @@ import org.apache.log4j.BasicConfigurator;
 public class LombokLog4f {
     public static void mensajesLog(){
         BasicConfigurator.configure();
-        log.warn("Mensaje con lombok y log4j");
+        log.info("Mensaje con lombok y log4j");
     }
 
 }

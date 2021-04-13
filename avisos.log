@@ -1,33 +1,24 @@
-
-[2021-04-13 15:14:50] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:14:50] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:23:16] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:23:16] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:25:04] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:25:04] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:26:04] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:26:04] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:27:59] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:27:59] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:33:55] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:33:55] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:34:15] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:34:15] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:35:51] [ INFO ] [Main:382] Hola mundo
-[2021-04-13 15:35:51] [ ERROR] [Main:382] Esto es un mensaje de error
-[2021-04-13 15:35:51] [ DEBUG] [Main:382] Esto es un mensaje para debugear
-[2021-04-13 15:35:51] [ WARN ] [Main:382] Esto es un mensaje de peligro
-[2021-04-13 15:35:51] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:35:51] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:37:12] [ INFO ] [Main:382] Hola mundo
-[2021-04-13 15:37:12] [ ERROR] [Main:382] Esto es un mensaje de error
-[2021-04-13 15:37:12] [ DEBUG] [Main:382] Esto es un mensaje para debugear
-[2021-04-13 15:37:12] [ WARN ] [Main:382] Esto es un mensaje de peligro
-[2021-04-13 15:37:12] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:37:12] [ INFO ] [Main:28] Mensaje solo con Log4j
-[2021-04-13 15:37:29] [ INFO ] [Main:382] Hola mundo
-[2021-04-13 15:37:29] [ ERROR] [Main:382] Esto es un mensaje de error
-[2021-04-13 15:37:29] [ DEBUG] [Main:382] Esto es un mensaje para debugear
-[2021-04-13 15:37:29] [ WARN ] [Main:382] Esto es un mensaje de peligro
-[2021-04-13 15:37:29] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
-[2021-04-13 15:37:29] [ INFO ] [Main:28] Mensaje solo con Log4j
+[2021-04-13 15:40:50] [ INFO ] [Main:382] Hola mundo
+[2021-04-13 15:40:50] [ ERROR] [Main:382] Esto es un mensaje de error
+[2021-04-13 15:40:50] [ DEBUG] [Main:382] Esto es un mensaje para debugear
+[2021-04-13 15:40:50] [ WARN ] [Main:382] Esto es un mensaje de peligro
+[2021-04-13 15:40:50] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
+[2021-04-13 15:40:50] [ INFO ] [Main:28] Mensaje solo con Log4j
+[2021-04-13 15:41:37] [ INFO ] [Main:382] Hola mundo
+[2021-04-13 15:41:37] [ ERROR] [Main:382] Esto es un mensaje de error
+[2021-04-13 15:41:37] [ DEBUG] [Main:382] Esto es un mensaje para debugear
+[2021-04-13 15:41:37] [ WARN ] [Main:382] Esto es un mensaje de peligro
+[2021-04-13 15:41:37] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
+[2021-04-13 15:41:37] [ INFO ] [Main:28] Mensaje solo con Log4j
+[2021-04-13 15:43:25] [ INFO ] [Main:382] Esto es un mensaje de información
+[2021-04-13 15:43:25] [ ERROR] [Main:382] Esto es un mensaje de error
+[2021-04-13 15:43:25] [ DEBUG] [Main:382] Esto es un mensaje para debugear
+[2021-04-13 15:43:25] [ WARN ] [Main:382] Esto es un mensaje de peligro
+[2021-04-13 15:43:25] [ WARN ] [LombokLog4f:11] Mensaje con lombok y log4j
+[2021-04-13 15:43:25] [ INFO ] [Main:28] Mensaje solo con Log4j
+[2021-04-13 15:44:58] [ INFO ] [Main:382] Esto es un mensaje de información
+[2021-04-13 15:44:58] [ ERROR] [Main:382] Esto es un mensaje de error
+[2021-04-13 15:44:58] [ DEBUG] [Main:382] Esto es un mensaje para debugear
+[2021-04-13 15:44:58] [ WARN ] [Main:382] Esto es un mensaje de peligro
+[2021-04-13 15:44:58] [ INFO ] [LombokLog4f:11] Mensaje con lombok y log4j
+[2021-04-13 15:44:58] [ INFO ] [Main:28] Mensaje solo con Log4j

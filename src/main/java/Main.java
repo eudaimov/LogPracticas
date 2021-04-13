@@ -20,9 +20,8 @@ public class Main {
         System.out.println("-------------SLF4j----------------");
         // Log con slf4j
         Logger logger = LoggerFactory.getLogger(Main.class);
-        logger.info("Hola mundo");
+        logger.info("Esto es un mensaje de información");
         logger.error("Esto es un mensaje de error");
-        //Los debug no salen por consola
         logger.debug("Esto es un mensaje para debugear");
         logger.warn("Esto es un mensaje de peligro");
 
